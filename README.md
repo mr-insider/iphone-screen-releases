@@ -1,2 +1,9 @@
-# iphone-screen-releases
-iPhone Screen for Windows 11 — installers, release notes and open-source component notices. by Mr_Insider.
+# iPhone Screen
+
+Бесплатная трансляция экрана iPhone и iPad на Windows 11 — для стримов, презентаций и повседневного использования.
+
+**[Сайт приложения и скачивание](https://phone-screen.xyz/)**
+
+[Все выпуски](https://github.com/mr-insider/iphone-screen-releases/releases)
+
+Здесь размещены установщики, описания выпусков, лицензии и исходники открытых компонентов. Для запуска нужен установщик Windows 11 x64 из выбранного выпуска.
